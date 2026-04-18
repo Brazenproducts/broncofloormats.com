@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://broncofloormats.com/sitemap.xml
